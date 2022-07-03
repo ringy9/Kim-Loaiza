@@ -1,0 +1,54 @@
+{
+    "data" : [
+        {
+          
+            "network": "max",
+            
+            "max_ban": "47a39d9eb8a930de",
+            "max_int": "bfe216d725eea46b",
+            
+            "is_app_key": "154b0d031",
+            "is_ban": "DefaultBanner",
+            "is_int": "DefaultInterstitial",
+            
+            "admob_ban": "ca-app-pub-3940256099942544/6300978111",
+            "admob_int": "ca-app-pub-3940256099942544/1033173712",
+
+            "name": "Kim Loaiza",
+            "photo": "https://i.postimg.cc/sXLNK86n/705b32fb4d2948ee2f50afc1384a1368.jpg",
+            "voice": "https://ringy9.github.io/Kim-Loaiza/suara.mp3",
+            "video": "https://ringy9.github.io/Kim-Loaiza/vida.mp4",
+            "stories": [
+                "https://i.postimg.cc/Pqt9q1vM/0c35650aae108298c55f8c5b816dd337.jpg",
+"https://i.postimg.cc/XJqPf38G/2d436b8281d4ee8339e48832d6baab00.jpg",
+"https://i.postimg.cc/Pq2cvNmn/3880c6e9955b8373f3569eefa34c7f51.jpg",
+"https://i.postimg.cc/wMsbrVn9/4be82fb72a2fa70b404ba7839185fcdc.jpg",
+"https://i.postimg.cc/K4SshTyB/6175ea2d06d4f3067ded47196777fb47.jpg",
+"https://i.postimg.cc/jSXKvxzZ/6bbf09807b1f97dd32cc3a1b6a3c2101.jpg",
+"https://i.postimg.cc/sXLNK86n/705b32fb4d2948ee2f50afc1384a1368.jpg",
+"https://i.postimg.cc/59hx2k4q/b98b18269e27a64588b3683a6ac50283.jpg",
+"https://i.postimg.cc/662WwNXp/cb865f8e575a5868deb65b56a55f10f6.jpg",
+"https://i.postimg.cc/MK1zMbXk/d1e8a2ede0727d8f67050bc484237af8.jpg",
+"https://i.postimg.cc/9QVCGRqD/download.jpg",
+"https://i.postimg.cc/0NyvBTnx/f5e502d8537c7c97986827888f4f1328.jpg",
+"https://i.postimg.cc/pdcvbscj/FJQJz-LVXo-AEt5-6.jpg"
+            ],
+            "wallpapers": [
+               "https://i.postimg.cc/Pqt9q1vM/0c35650aae108298c55f8c5b816dd337.jpg",
+"https://i.postimg.cc/XJqPf38G/2d436b8281d4ee8339e48832d6baab00.jpg",
+"https://i.postimg.cc/Pq2cvNmn/3880c6e9955b8373f3569eefa34c7f51.jpg",
+"https://i.postimg.cc/wMsbrVn9/4be82fb72a2fa70b404ba7839185fcdc.jpg",
+"https://i.postimg.cc/K4SshTyB/6175ea2d06d4f3067ded47196777fb47.jpg",
+"https://i.postimg.cc/jSXKvxzZ/6bbf09807b1f97dd32cc3a1b6a3c2101.jpg",
+"https://i.postimg.cc/sXLNK86n/705b32fb4d2948ee2f50afc1384a1368.jpg",
+"https://i.postimg.cc/59hx2k4q/b98b18269e27a64588b3683a6ac50283.jpg",
+"https://i.postimg.cc/662WwNXp/cb865f8e575a5868deb65b56a55f10f6.jpg",
+"https://i.postimg.cc/MK1zMbXk/d1e8a2ede0727d8f67050bc484237af8.jpg",
+"https://i.postimg.cc/9QVCGRqD/download.jpg",
+"https://i.postimg.cc/0NyvBTnx/f5e502d8537c7c97986827888f4f1328.jpg",
+"https://i.postimg.cc/pdcvbscj/FJQJz-LVXo-AEt5-6.jpg"
+            ]
+          
+        }
+    ]
+}
